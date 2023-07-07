@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "json-server",
+      "isDone": false
+    },
+    {
+      "id": "b7021032-a803-c8dc-c05e-41d9a041be92",
+      "text": "dd",
+      "isDone": false
+    },
+    {
+      "id": "2279c160-88f4-636f-63bb-5f8db1e5128c",
+      "text": "ss",
+      "isDone": false
+    },
+    {
+      "id": "1398d5f7-6486-bb4e-0078-0023004a0f6b",
+      "text": "ww",
+      "isDone": false
+    },
+    {
+      "id": "f88581dd-d538-c6f8-8879-fadd0a802e6e",
+      "text": "RR",
+      "isDone": false
+    }
+  ]
+}
